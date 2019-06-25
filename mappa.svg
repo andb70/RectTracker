@@ -15,9 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="mappa.svg">
-  <defs
-     id="defs2" />
+   sodipodi:docname="mappa.svg"
+   inkscape:export-filename="C:\Users\andb7\source\repos\RectTracker\mappa.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.47363963"
-     inkscape:cx="893.51856"
-     inkscape:cy="408.06184"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="43.417089"
+     inkscape:cy="192.36709"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
      showgrid="false"
@@ -55,204 +56,206 @@
      inkscape:snap-center="true"
      inkscape:snap-page="true">
     <sodipodi:guide
-       position="18.499999,-357.49998"
-       orientation="1,0"
+       inkscape:locked="false"
        id="guide817"
-       inkscape:locked="false" />
+       orientation="1,0"
+       position="18.499999,-357.49998" />
     <sodipodi:guide
-       position="18.499999,-357.49998"
-       orientation="0,1"
+       inkscape:locked="false"
        id="guide819"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="17.999999,-339.99999"
        orientation="0,1"
+       position="18.499999,-357.49998" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:label=""
+       inkscape:locked="false"
        id="guide821"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       orientation="0,1"
+       position="17.999999,-339.99999" />
     <sodipodi:guide
-       position="377.99999,-339.99999"
-       orientation="1,0"
+       inkscape:color="rgb(0,0,255)"
+       inkscape:label=""
+       inkscape:locked="false"
        id="guide823"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       orientation="1,0"
+       position="377.99999,-339.99999" />
     <sodipodi:guide
-       position="378,-254.99999"
-       orientation="0,1"
+       inkscape:color="rgb(0,0,255)"
+       inkscape:label=""
+       inkscape:locked="false"
        id="guide825"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       orientation="0,1"
+       position="378,-254.99999" />
     <sodipodi:guide
-       position="217.99999,-254.99999"
-       orientation="1,0"
+       inkscape:color="rgb(0,0,255)"
+       inkscape:label=""
+       inkscape:locked="false"
        id="guide827"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="307.99999,-254.99999"
        orientation="1,0"
+       position="217.99999,-254.99999" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:label=""
+       inkscape:locked="false"
        id="guide829"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="-39.02135,-310.03264"
        orientation="1,0"
+       position="307.99999,-254.99999" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:label=""
+       inkscape:locked="false"
        id="guide831"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="134,-254.99999"
        orientation="1,0"
+       position="-39.02135,-310.03264" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:label=""
+       inkscape:locked="false"
        id="guide833"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="-260.36309,-86.785718"
        orientation="1,0"
+       position="134,-254.99999" />
+    <sodipodi:guide
+       inkscape:locked="false"
        id="guide835"
-       inkscape:locked="false" />
+       orientation="1,0"
+       position="-260.36309,-86.785718" />
     <sodipodi:guide
-       position="17.999999,-30"
-       orientation="0,1"
+       inkscape:color="rgb(0,0,255)"
+       inkscape:label=""
+       inkscape:locked="false"
        id="guide837"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="17.999999,-112"
        orientation="0,1"
+       position="17.999999,-30" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:label=""
+       inkscape:locked="false"
        id="guide839"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="344.24314,-75.904543"
        orientation="0,1"
+       position="17.999999,-112" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:label=""
+       inkscape:locked="false"
        id="guide841"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="17.999999,-219.99999"
        orientation="0,1"
+       position="344.24314,-75.904543" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:label=""
+       inkscape:locked="false"
        id="guide843"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="17.999999,-254.99999"
        orientation="0,1"
+       position="17.999999,-219.99999" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
+       inkscape:label=""
+       inkscape:locked="false"
        id="guide845"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       orientation="0,1"
+       position="17.999999,-254.99999" />
     <sodipodi:guide
-       position="520.99998,-30.00001"
-       orientation="1,0"
+       inkscape:color="rgb(0,0,255)"
+       inkscape:label=""
+       inkscape:locked="false"
        id="guide918"
-       inkscape:locked="false"
-       inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="539,-30.00002"
        orientation="1,0"
+       position="520.99998,-30.00001" />
+    <sodipodi:guide
+       inkscape:locked="false"
        id="guide4554"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="457.99999,-2.0965582e-005"
-       orientation="0,1"
-       id="guide4556"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="2.0990927e-008,-3.0965582e-005"
        orientation="1,0"
-       id="guide4558"
+       position="539,-30.00002" />
+    <sodipodi:guide
        inkscape:locked="false"
+       id="guide4556"
+       orientation="0,1"
+       position="457.99999,-2.0965582e-005" />
+    <sodipodi:guide
+       inkscape:color="rgb(0,0,255)"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="83.999998,-111.99998"
+       inkscape:locked="false"
+       id="guide4558"
        orientation="1,0"
+       position="2.0990927e-008,-3.0965582e-005" />
+    <sodipodi:guide
+       inkscape:locked="false"
        id="guide4562"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="105.5,-29.999993"
        orientation="1,0"
+       position="83.999998,-111.99998" />
+    <sodipodi:guide
+       inkscape:locked="false"
        id="guide4564"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="142.49702,-210.72172"
        orientation="1,0"
+       position="105.5,-29.999993" />
+    <sodipodi:guide
+       inkscape:locked="false"
        id="guide4566"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="168,-29.999993"
        orientation="1,0"
+       position="142.49702,-210.72172" />
+    <sodipodi:guide
+       inkscape:locked="false"
        id="guide4568"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="210.99999,-29.999993"
        orientation="1,0"
+       position="168,-29.999993" />
+    <sodipodi:guide
+       inkscape:locked="false"
        id="guide4570"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="327.15624,-129.01806"
        orientation="1,0"
+       position="210.99999,-29.999993" />
+    <sodipodi:guide
+       inkscape:locked="false"
        id="guide4572"
-       inkscape:locked="false" />
+       orientation="1,0"
+       position="327.15624,-129.01806" />
     <sodipodi:guide
-       position="327.15624,-129.01806"
-       orientation="0,1"
+       inkscape:locked="false"
        id="guide4574"
-       inkscape:locked="false" />
+       orientation="0,1"
+       position="327.15624,-129.01806" />
     <sodipodi:guide
-       position="319.99999,-29.999993"
-       orientation="1,0"
+       inkscape:locked="false"
        id="guide4576"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="365.99999,-29.999993"
        orientation="1,0"
+       position="319.99999,-29.999993" />
+    <sodipodi:guide
+       inkscape:locked="false"
        id="guide4578"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="399.99999,-29.999993"
        orientation="1,0"
+       position="365.99999,-29.999993" />
+    <sodipodi:guide
+       inkscape:locked="false"
        id="guide4580"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="437.99999,-29.999993"
        orientation="1,0"
+       position="399.99999,-29.999993" />
+    <sodipodi:guide
+       inkscape:locked="false"
        id="guide4582"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="437.99999,-54.522981"
-       orientation="0,1"
-       id="guide4584"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="83.999998,-272.08036"
-       orientation="0,1"
-       id="guide4600"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="74.650295,-112"
        orientation="1,0"
-       id="guide4602"
-       inkscape:locked="false" />
+       position="437.99999,-29.999993" />
     <sodipodi:guide
-       position="520.99998,-168.37979"
+       inkscape:locked="false"
+       id="guide4584"
        orientation="0,1"
+       position="437.99999,-54.522981" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide4600"
+       orientation="0,1"
+       position="83.999998,-272.08036" />
+    <sodipodi:guide
+       inkscape:locked="false"
+       id="guide4602"
+       orientation="1,0"
+       position="74.650295,-112" />
+    <sodipodi:guide
+       inkscape:locked="false"
        id="guide4610"
-       inkscape:locked="false" />
+       orientation="0,1"
+       position="520.99998,-168.37979" />
   </sodipodi:namedview>
+  <defs
+     id="defs2" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -266,420 +269,420 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:groupmode="layer"
-     id="layer2"
+     style="display:inline"
      inkscape:label="Layer 2"
-     style="display:inline">
+     id="layer2"
+     inkscape:groupmode="layer">
     <rect
-       transform="translate(7.9999999,428.50001)"
-       style="display:inline;opacity:1;vector-effect:none;fill:#ffd92a;fill-opacity:0.91457286;fill-rule:evenodd;stroke:none;stroke-width:1.00599337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4552"
-       width="539"
-       height="357.49997"
+       y="-428.49997"
        x="-8"
-       y="-428.49997" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Layer 3"
-     style="display:inline">
-    <rect
-       transform="rotate(180,3.9999999,214.25)"
-       style="display:inline;opacity:1;vector-effect:none;fill:#20c72a;fill-opacity:0.91457286;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4689"
-       width="18.000019"
-       height="339.99997"
-       x="-10.00002"
-       y="70.999992" />
-    <rect
-       transform="rotate(180,3.9999999,214.25)"
-       style="display:inline;opacity:1;vector-effect:none;fill:#20c72a;fill-opacity:0.91457286;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4691"
-       width="18.499998"
-       height="339.99997"
-       x="-531"
-       y="70.999992" />
-    <rect
-       transform="rotate(180,3.9999999,214.25)"
-       style="display:inline;opacity:1;vector-effect:none;fill:#20c72a;fill-opacity:0.91457286;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4693"
-       width="502.5"
-       height="29.999979"
-       x="-512.5"
-       y="70.999992" />
-    <rect
-       transform="rotate(180,3.9999999,214.25)"
-       style="display:inline;opacity:1;vector-effect:none;fill:#20c72a;fill-opacity:0.91457286;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4687"
+       height="357.49997"
        width="539"
-       height="17.499989"
+       id="rect4552"
+       style="display:inline;opacity:1;vector-effect:none;fill:#ffd92a;fill-opacity:0.91457286;fill-rule:evenodd;stroke:none;stroke-width:1.00599337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="translate(7.9999999,428.50001)" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="Layer 3"
+     id="layer3"
+     inkscape:groupmode="layer">
+    <rect
+       y="70.999992"
+       x="-10.00002"
+       height="339.99997"
+       width="18.000019"
+       id="rect4689"
+       style="display:inline;opacity:1;vector-effect:none;fill:#20c72a;fill-opacity:0.91457286;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="rotate(180,3.9999999,214.25)" />
+    <rect
+       y="70.999992"
        x="-531"
-       y="410.99997" />
+       height="339.99997"
+       width="18.499998"
+       id="rect4691"
+       style="display:inline;opacity:1;vector-effect:none;fill:#20c72a;fill-opacity:0.91457286;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="rotate(180,3.9999999,214.25)" />
+    <rect
+       y="70.999992"
+       x="-512.5"
+       height="29.999979"
+       width="502.5"
+       id="rect4693"
+       style="display:inline;opacity:1;vector-effect:none;fill:#20c72a;fill-opacity:0.91457286;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="rotate(180,3.9999999,214.25)" />
+    <rect
+       y="410.99997"
+       x="-531"
+       height="17.499989"
+       width="539"
+       id="rect4687"
+       style="display:inline;opacity:1;vector-effect:none;fill:#20c72a;fill-opacity:0.91457286;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="rotate(180,3.9999999,214.25)" />
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer4"
+     style="display:inline"
      inkscape:label="Layer 4"
-     style="display:inline">
+     id="layer4"
+     inkscape:groupmode="layer">
     <rect
-       transform="rotate(180,3.9999999,214.25)"
-       style="display:inline;opacity:1;vector-effect:none;fill:#d5f9d0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4586"
-       width="42.500004"
-       height="29.999975"
+       y="71.000015"
        x="-425.50003"
-       y="71.000015" />
-    <rect
-       transform="rotate(180,3.9999999,214.25)"
+       height="29.999975"
+       width="42.500004"
+       id="rect4586"
        style="display:inline;opacity:1;vector-effect:none;fill:#d5f9d0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4588"
-       width="42.999996"
-       height="29.999975"
+       transform="rotate(180,3.9999999,214.25)" />
+    <rect
+       y="71.000015"
        x="-363.00003"
-       y="71.000015" />
+       height="29.999975"
+       width="42.999996"
+       id="rect4588"
+       style="display:inline;opacity:1;vector-effect:none;fill:#d5f9d0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="rotate(180,3.9999999,214.25)" />
     <rect
-       transform="rotate(180,3.9999999,214.25)"
-       style="display:inline;opacity:1;vector-effect:none;fill:#abdef3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4594"
-       width="308.65625"
+       y="101"
+       x="-512.5"
        height="46"
-       x="-512.5"
-       y="101" />
-    <rect
-       transform="rotate(180,3.9999999,214.25)"
-       style="display:inline;opacity:1;vector-effect:none;fill:#bef0bf;fill-opacity:0.95751624;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4608"
-       width="109.15626"
-       height="53.018066"
-       x="-313.00003"
-       y="147" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="400.53705"
-       y="344.27444"
-       id="text4626"><tspan
-         sodipodi:role="line"
-         id="tspan4624"
-         x="400.53705"
-         y="344.27444"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:0.26458332">INGRESSO 1</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="337.7085"
-       y="344.27444"
-       id="text4630"><tspan
-         sodipodi:role="line"
-         id="tspan4628"
-         x="337.7085"
-         y="344.27444"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:0.26458332">INGRESSO 2</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="354.76483"
-       y="305.52036"
-       id="text4642"><tspan
-         sodipodi:role="line"
-         id="tspan4640"
-         x="354.76483"
-         y="305.52036"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:0.26458332">CORRIDOIO</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="251.19699"
-       y="259.31506"
-       id="text4658"><tspan
-         sodipodi:role="line"
-         id="tspan4656"
-         x="251.19699"
-         y="259.31506"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:0.26458332">BANCO CARNI 1</tspan></text>
-    <rect
-       transform="rotate(180,3.9999999,214.25)"
-       style="display:inline;opacity:1;vector-effect:none;fill:#bef0bf;fill-opacity:0.95751624;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4606"
-       width="109.15626"
-       height="52.080372"
-       x="-313.00003"
-       y="291" />
-    <rect
-       transform="rotate(180,3.9999999,214.25)"
-       style="display:inline;opacity:1;vector-effect:none;fill:#fae0e2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4614"
-       width="50.84375"
-       height="120.00001"
-       x="-203.84377"
-       y="291" />
-    <rect
-       transform="rotate(180,3.9999999,214.25)"
-       style="display:inline;opacity:1;vector-effect:none;fill:#abdef3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4616"
        width="308.65625"
-       height="67.919624"
-       x="-512.5"
-       y="343.08035" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="251.11844"
-       y="113.08625"
-       id="text4662"><tspan
-         sodipodi:role="line"
-         id="tspan4660"
-         x="251.11844"
-         y="113.08625"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:0.26458332">BANCO CARNI 2</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="348.12854"
-       y="45.890911"
-       id="text4666"><tspan
-         sodipodi:role="line"
-         id="tspan4664"
-         x="348.12854"
-         y="45.890911"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:0.26458332">ESPOSIZIONE VINI</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="174.10739"
-       y="79.612953"
-       id="text4729"><tspan
-         sodipodi:role="line"
-         id="tspan4727"
-         x="174.10739"
-         y="79.612953"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:0.26458332">FORMAGGI 2</tspan></text>
-    <rect
-       transform="rotate(180,3.9999999,214.25)"
-       style="display:inline;opacity:1;vector-effect:none;fill:#bef0bf;fill-opacity:0.95751624;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4590"
-       width="46"
-       height="29.999975"
-       x="-211.00002"
-       y="71.000015" />
-    <rect
-       transform="rotate(180,3.9999999,214.25)"
+       id="rect4594"
        style="display:inline;opacity:1;vector-effect:none;fill:#abdef3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4612"
-       width="193.84373"
-       height="51.620201"
-       x="-203.84377"
-       y="239.37979" />
+       transform="rotate(180,3.9999999,214.25)" />
     <rect
-       transform="rotate(180,3.9999999,214.25)"
-       style="display:inline;opacity:1;vector-effect:none;fill:#fae0e2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4618"
-       width="110.84375"
-       height="138.37979"
-       x="-203.84377"
-       y="100.99999" />
-    <rect
-       transform="rotate(180,3.9999999,214.25)"
-       style="display:inline;opacity:1;vector-effect:none;fill:#bef0bf;fill-opacity:0.95751624;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4668"
-       width="82.999985"
-       height="138.37979"
-       x="-93.000023"
-       y="101" />
-    <rect
-       transform="rotate(180,3.9999999,214.25)"
-       style="display:inline;opacity:1;vector-effect:none;fill:#bef0bf;fill-opacity:0.95751624;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4592"
-       width="38.000004"
-       height="29.999975"
-       x="-131.00002"
-       y="71.000015" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;display:inline;fill:#020b02;fill-opacity:0.91457292;stroke:none;stroke-width:0.26458332"
-       x="188.11833"
-       y="344.27444"
-       id="text4634"><tspan
-         sodipodi:role="line"
-         id="tspan4632"
-         x="188.11833"
-         y="344.27444"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#020b02;fill-opacity:0.91457292;stroke-width:0.26458332">CASSA 1</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;display:inline;fill:#020b02;fill-opacity:0.91457292;stroke:none;stroke-width:0.26458332"
-       x="112.03978"
-       y="344.27856"
-       id="text4638"><tspan
-         sodipodi:role="line"
-         id="tspan4636"
-         x="112.03978"
-         y="344.27856"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#020b02;fill-opacity:0.91457292;stroke-width:0.26458332">CASSA 2</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;display:inline;fill:#020b02;fill-opacity:0.91457292;stroke:none;stroke-width:0.26458332"
-       x="149.22647"
-       y="259.31506"
-       id="text4642-1"><tspan
-         sodipodi:role="line"
-         id="tspan4640-5"
-         x="149.22647"
-         y="259.31506"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#020b02;fill-opacity:0.91457292;stroke-width:0.26458332">PROMO</tspan></text>
-    <text
-       transform="translate(7.9999999,428.50001)"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;display:inline;fill:#020b02;fill-opacity:0.91457292;stroke:none;stroke-width:0.26458332"
-       x="25.867487"
-       y="-169.18494"
-       id="text4721"><tspan
-         sodipodi:role="line"
-         id="tspan4719"
-         x="25.867487"
-         y="-169.18494"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#020b02;fill-opacity:0.91457292;stroke-width:0.26458332">PRODOTTI DA FORNO</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:0.91457292;stroke:none;stroke-width:0.26458332"
-       x="102.68595"
-       y="163.33302"
-       id="text4725"><tspan
-         sodipodi:role="line"
-         id="tspan4723"
-         x="102.68595"
-         y="163.33302"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000;fill-opacity:0.91457292;stroke-width:0.26458332">FORMAGGI 1</tspan></text>
-    <rect
-       transform="rotate(180,3.9999999,214.25)"
-       style="display:inline;opacity:1;vector-effect:none;fill:#fae0e2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4596"
-       width="56.150299"
-       height="196.08037"
-       x="-512.5"
-       y="147" />
-    <rect
-       transform="rotate(180,3.9999999,214.25)"
-       style="display:inline;opacity:1;vector-effect:none;fill:#bef0bf;fill-opacity:0.95751624;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4598"
-       width="67.846725"
-       height="196.08037"
-       x="-456.34973"
-       y="147" />
-    <rect
-       transform="rotate(180,3.9999999,214.25)"
-       style="display:inline;opacity:1;vector-effect:none;fill:#fae0e2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4604"
-       width="75.502975"
-       height="196.08035"
-       x="-388.50299"
        y="147"
-       ry="0" />
+       x="-313.00003"
+       height="53.018066"
+       width="109.15626"
+       id="rect4608"
+       style="display:inline;opacity:1;vector-effect:none;fill:#bef0bf;fill-opacity:0.95751624;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="rotate(180,3.9999999,214.25)" />
     <text
-       xml:space="preserve"
+       id="text4626"
+       y="344.27444"
+       x="400.53705"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:0.26458332"
+         y="344.27444"
+         x="400.53705"
+         id="tspan4624"
+         sodipodi:role="line">INGRESSO 1</tspan></text>
+    <text
+       id="text4630"
+       y="344.27444"
+       x="337.7085"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:0.26458332"
+         y="344.27444"
+         x="337.7085"
+         id="tspan4628"
+         sodipodi:role="line">INGRESSO 2</tspan></text>
+    <text
+       id="text4642"
+       y="305.52036"
+       x="354.76483"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:0.26458332"
+         y="305.52036"
+         x="354.76483"
+         id="tspan4640"
+         sodipodi:role="line">CORRIDOIO</tspan></text>
+    <text
+       id="text4658"
+       y="259.31506"
+       x="251.19699"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:0.26458332"
+         y="259.31506"
+         x="251.19699"
+         id="tspan4656"
+         sodipodi:role="line">BANCO CARNI 1</tspan></text>
+    <rect
+       y="291"
+       x="-313.00003"
+       height="52.080372"
+       width="109.15626"
+       id="rect4606"
+       style="display:inline;opacity:1;vector-effect:none;fill:#bef0bf;fill-opacity:0.95751624;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="rotate(180,3.9999999,214.25)" />
+    <rect
+       y="291"
+       x="-203.84377"
+       height="120.00001"
+       width="50.84375"
+       id="rect4614"
+       style="display:inline;opacity:1;vector-effect:none;fill:#fae0e2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="rotate(180,3.9999999,214.25)" />
+    <rect
+       y="343.08035"
+       x="-512.5"
+       height="67.919624"
+       width="308.65625"
+       id="rect4616"
+       style="display:inline;opacity:1;vector-effect:none;fill:#abdef3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="rotate(180,3.9999999,214.25)" />
+    <text
+       id="text4662"
+       y="113.08625"
+       x="251.11844"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:0.26458332"
+         y="113.08625"
+         x="251.11844"
+         id="tspan4660"
+         sodipodi:role="line">BANCO CARNI 2</tspan></text>
+    <text
+       id="text4666"
+       y="45.890911"
+       x="348.12854"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:0.26458332"
+         y="45.890911"
+         x="348.12854"
+         id="tspan4664"
+         sodipodi:role="line">ESPOSIZIONE VINI</tspan></text>
+    <text
+       id="text4729"
+       y="79.612953"
+       x="174.10739"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:0.26458332"
+         y="79.612953"
+         x="174.10739"
+         id="tspan4727"
+         sodipodi:role="line">FORMAGGI 2</tspan></text>
+    <rect
+       y="71.000015"
+       x="-211.00002"
+       height="29.999975"
+       width="46"
+       id="rect4590"
+       style="display:inline;opacity:1;vector-effect:none;fill:#bef0bf;fill-opacity:0.95751624;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="rotate(180,3.9999999,214.25)" />
+    <rect
+       y="239.37979"
+       x="-203.84377"
+       height="51.620201"
+       width="193.84373"
+       id="rect4612"
+       style="display:inline;opacity:1;vector-effect:none;fill:#abdef3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="rotate(180,3.9999999,214.25)" />
+    <rect
+       y="100.99999"
+       x="-203.84377"
+       height="138.37979"
+       width="110.84375"
+       id="rect4618"
+       style="display:inline;opacity:1;vector-effect:none;fill:#fae0e2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="rotate(180,3.9999999,214.25)" />
+    <rect
+       y="101"
+       x="-93.000023"
+       height="138.37979"
+       width="82.999985"
+       id="rect4668"
+       style="display:inline;opacity:1;vector-effect:none;fill:#bef0bf;fill-opacity:0.95751624;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="rotate(180,3.9999999,214.25)" />
+    <rect
+       y="71.000015"
+       x="-131.00002"
+       height="29.999975"
+       width="38.000004"
+       id="rect4592"
+       style="display:inline;opacity:1;vector-effect:none;fill:#bef0bf;fill-opacity:0.95751624;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="rotate(180,3.9999999,214.25)" />
+    <text
+       id="text4634"
+       y="344.27444"
+       x="188.11833"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;display:inline;fill:#020b02;fill-opacity:0.91457292;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#020b02;fill-opacity:0.91457292;stroke-width:0.26458332"
+         y="344.27444"
+         x="188.11833"
+         id="tspan4632"
+         sodipodi:role="line">CASSA 1</tspan></text>
+    <text
+       id="text4638"
+       y="344.27856"
+       x="112.03978"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;display:inline;fill:#020b02;fill-opacity:0.91457292;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#020b02;fill-opacity:0.91457292;stroke-width:0.26458332"
+         y="344.27856"
+         x="112.03978"
+         id="tspan4636"
+         sodipodi:role="line">CASSA 2</tspan></text>
+    <text
+       id="text4642-1"
+       y="259.31506"
+       x="149.22647"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;display:inline;fill:#020b02;fill-opacity:0.91457292;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#020b02;fill-opacity:0.91457292;stroke-width:0.26458332"
+         y="259.31506"
+         x="149.22647"
+         id="tspan4640-5"
+         sodipodi:role="line">PROMO</tspan></text>
+    <text
+       id="text4721"
+       y="-169.18494"
+       x="25.867487"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;display:inline;fill:#020b02;fill-opacity:0.91457292;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       transform="translate(7.9999999,428.50001)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#020b02;fill-opacity:0.91457292;stroke-width:0.26458332"
+         y="-169.18494"
+         x="25.867487"
+         id="tspan4719"
+         sodipodi:role="line">PRODOTTI DA FORNO</tspan></text>
+    <text
+       id="text4725"
+       y="163.33302"
+       x="102.68595"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:0.91457292;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#000000;fill-opacity:0.91457292;stroke-width:0.26458332"
+         y="163.33302"
+         x="102.68595"
+         id="tspan4723"
+         sodipodi:role="line">FORMAGGI 1</tspan></text>
+    <rect
+       y="147"
+       x="-512.5"
+       height="196.08037"
+       width="56.150299"
+       id="rect4596"
+       style="display:inline;opacity:1;vector-effect:none;fill:#fae0e2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="rotate(180,3.9999999,214.25)" />
+    <rect
+       y="147"
+       x="-456.34973"
+       height="196.08037"
+       width="67.846725"
+       id="rect4598"
+       style="display:inline;opacity:1;vector-effect:none;fill:#bef0bf;fill-opacity:0.95751624;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="rotate(180,3.9999999,214.25)" />
+    <rect
+       ry="0"
+       y="147"
+       x="-388.50299"
+       height="196.08035"
+       width="75.502975"
+       id="rect4604"
+       style="display:inline;opacity:1;vector-effect:none;fill:#fae0e2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="rotate(180,3.9999999,214.25)" />
+    <text
+       id="text4646"
+       y="184.41428"
        x="488.33902"
-       y="184.41428"
-       id="text4646"><tspan
-         sodipodi:role="line"
-         id="tspan4644"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:0.26458332"
+         y="184.41428"
          x="488.33902"
-         y="184.41428"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:0.26458332">CORSIA 3</tspan></text>
+         id="tspan4644"
+         sodipodi:role="line">CORSIA 3</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text4650"
+       y="184.41428"
        x="421.89905"
-       y="184.41428"
-       id="text4650"><tspan
-         sodipodi:role="line"
-         id="tspan4648"
-         x="421.89905"
-         y="184.41428"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:0.26458332">CORSIA 2</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="346.33167"
-       y="184.41428"
-       id="text4654"><tspan
-         sodipodi:role="line"
-         id="tspan4652"
-         x="346.33167"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:0.26458332"
          y="184.41428"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:0.26458332">CORSIA 1</tspan></text>
+         x="421.89905"
+         id="tspan4648"
+         sodipodi:role="line">CORSIA 2</tspan></text>
+    <text
+       id="text4654"
+       y="184.41428"
+       x="346.33167"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;stroke-width:0.26458332"
+         y="184.41428"
+         x="346.33167"
+         id="tspan4652"
+         sodipodi:role="line">CORSIA 1</tspan></text>
   </g>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
+     style="display:inline"
      transform="translate(8,428.5)"
-     style="display:inline">
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="97.5"
+       id="text4622"
        y="-54.429298"
-       id="text4622"><tspan
-         sodipodi:role="line"
-         id="tspan4620"
-         x="97.5"
+       x="97.5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
          y="-50.662575"
-         style="stroke-width:0.26458332"></tspan></text>
+         x="97.5"
+         id="tspan4620"
+         sodipodi:role="line" /></text>
     <rect
-       style="display:inline;opacity:1;vector-effect:none;fill:#0021db;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect864"
-       width="90.981934"
-       height="109.15625"
-       x="200.01807"
+       transform="rotate(-90)"
        y="203.84378"
-       transform="rotate(-90)" />
+       x="200.01807"
+       height="109.15625"
+       width="90.981934"
+       id="rect864"
+       style="display:inline;opacity:1;vector-effect:none;fill:#0021db;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
-       transform="scale(-1)"
-       style="display:inline;opacity:1;vector-effect:none;fill:#0021db;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect866"
-       width="143"
-       height="120"
+       y="290.99997"
        x="-153.00002"
-       y="290.99997" />
+       height="120"
+       width="143"
+       id="rect866"
+       style="display:inline;opacity:1;vector-effect:none;fill:#0021db;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="scale(-1)" />
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;display:inline;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="45.785404"
+       id="text4733"
        y="-347.34811"
-       id="text4733"><tspan
-         sodipodi:role="line"
-         id="tspan4731"
-         x="45.785404"
-         y="-347.34811"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#f5f5f5;fill-opacity:1;stroke-width:0.26458332">BANCO FORMAGGI</tspan></text>
-    <text
-       xml:space="preserve"
+       x="45.785404"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;display:inline;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="231.45508"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#f5f5f5;fill-opacity:1;stroke-width:0.26458332"
+         y="-347.34811"
+         x="45.785404"
+         id="tspan4731"
+         sodipodi:role="line">BANCO FORMAGGI</tspan></text>
+    <text
+       id="text4733-6"
        y="-242.54681"
-       id="text4733-6"><tspan
-         sodipodi:role="line"
-         id="tspan4731-6"
-         x="231.45508"
+       x="231.45508"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:Tahoma;letter-spacing:0px;word-spacing:0px;display:inline;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#f5f5f5;fill-opacity:1;stroke-width:0.26458332"
          y="-242.54681"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Tahoma;-inkscape-font-specification:Tahoma;fill:#f5f5f5;fill-opacity:1;stroke-width:0.26458332">BANCO CARNI</tspan></text>
+         x="231.45508"
+         id="tspan4731-6"
+         sodipodi:role="line">BANCO CARNI</tspan></text>
     <rect
-       transform="scale(-1)"
-       style="display:inline;opacity:1;vector-effect:none;fill:#0021db;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03389013;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect847"
-       width="18"
-       height="142.99998"
+       y="182.99998"
        x="-465.00003"
-       y="182.99998" />
-    <rect
-       transform="scale(-1)"
-       style="display:inline;opacity:1;vector-effect:none;fill:#0021db;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03389013;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect847-8"
-       width="18"
        height="142.99998"
+       width="18"
+       id="rect847"
+       style="display:inline;opacity:1;vector-effect:none;fill:#0021db;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03389013;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="scale(-1)" />
+    <rect
+       y="146.99998"
        x="-397.00003"
-       y="146.99998" />
+       height="142.99998"
+       width="18"
+       id="rect847-8"
+       style="display:inline;opacity:1;vector-effect:none;fill:#0021db;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.03389013;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="scale(-1)" />
   </g>
 </svg>
